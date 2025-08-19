@@ -60,6 +60,10 @@ body {
   animation: fadeIn 2s 1.5s forwards;
 }
 
+#firma {
+  text-align: right;
+}
+
 @keyframes scaleUp {
   0% {
     transform: scale(0);
